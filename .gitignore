@@ -1,0 +1,17 @@
+# build output
+backend/target/
+backend/dependency-reduced-pom.xml
+frontend/node_modules/
+frontend/dist/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# AI workflow tooling (not part of the application)
+.agent/
+.agents/
+.gemini/
+.gsd/
+adapters/
